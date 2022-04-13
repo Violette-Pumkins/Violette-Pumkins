@@ -21,7 +21,8 @@ I'm currently looking for an apprenticeship in web developement for my bachelor 
 - Roleplay 
 
 
-you can also find me here:
+## you can also find me here:
+
 <a href="https://www.linkedin.com/in/violette-audibert-689523218/?originalSubdomain=fr"><img align="center" src="img/linkedin.png" height ="20" /></a> Violette Audibert
 
 
