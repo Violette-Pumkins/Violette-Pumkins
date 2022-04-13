@@ -1,6 +1,6 @@
 ### Hi I'm Violette, welcome to my github profile!
 
-<a href="URL_REDIRECT"><img align="center" src="img/wallpaper_github_3.png" width="100%" /></a>
+<a href="URL_REDIRECT"><img align="center" src="img/wallpaper_github_4_1200x600.png" width="100%" /></a>
 <!--
 **Violette-Pumkins/Violette-Pumkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
