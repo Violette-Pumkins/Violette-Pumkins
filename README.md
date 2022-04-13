@@ -1,8 +1,11 @@
 ### Hi I'm Violette, welcome to my github profile!
 
-<<<<<<< HEAD
 <a href="URL_REDIRECT"><img align="center" src="img/wallpaper_github_4_1200x600.png" width="100%" /></a>
->>>>>>> a92eb4f0c6a7caa7766d4c053a412ba6efd2a944
+
+### you can also find me here:
+<a href="https://www.linkedin.com/in/violette-audibert-689523218/?originalSubdomain=fr"><img align="center" src="img/linkedin.png" /></a>
+
+### Violette Audibert
 <!--
 **Violette-Pumkins/Violette-Pumkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
