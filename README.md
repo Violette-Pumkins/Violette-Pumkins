@@ -1,4 +1,4 @@
-### Hi I'm Violette, welcome to my github profile!
+### <img align="center" src="img/cherry-blossom-top-left.png" height ="50" /> Hi I'm Violette, welcome to my github profile! <img align="center" src="img/cherry-blossom-down-right.png" height ="50" />
 
 <a href="URL_REDIRECT"><img align="center" src="img/wallpaper_github_4_1200x600.png" width="100%" /></a>
 
@@ -20,10 +20,7 @@ I'm currently looking for an apprenticeship in web developement for my bachelor 
 
 
 
-## <img align="center" src="img/cherry-blossom-top-left.png" height ="50" /> you can also find me here: <img align="center" src="img/cherry-blossom-down-right.png" height ="50" />
-
-
-
+## You can also find me on here: 
 
 <a href="https://www.linkedin.com/in/violette-audibert-689523218/?originalSubdomain=fr"><img align="center" src="img/linkedin.png" height ="30" /></a>  <a href="https://www.facebook.com/people/Violette-Pumkins-Audibert/100011128934590?_rdr"><img align="center" src="img/facebook.png" height ="30" /></a> <img align="center" src="img/discord.png" height ="30" />
 Violette Pumkins#8327
