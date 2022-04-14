@@ -9,19 +9,23 @@
 I'm currently looking for an apprenticeship in web developement for my bachelor year (bac +3)
 
 ## What do I love?
-- Arts
-- Books
-- History
-- Fantasy creatures
-- Video games
-- Music
-- Movies and theatre
-- Roleplay 
+- <img align="center" src="img/starry-night.png" height ="30" /> Arts
+- <img align="center" src="img/book.png" height ="30" /> Books
+- <img align="center" src="img/parchment.png" height ="30" /> History
+- <img align="center" src="img/dragon.png" height ="30" /> Fantasy creatures
+- <img align="center" src="img/mario.png" height ="30" /> Video games
+- <img align="center" src="img/love-song.png" height ="30" /> Music
+- <img align="center" src="img/light-saber.png" height ="30" /> Movies and theatre
+- <img align="center" src="img/discord.png" height ="30" /> Roleplay 
+
+<img align="center" src="img/cherry-blossom-top-left.png" height ="30" />
+
+## you can also find me here:   
+
+<img align="center" src="img/cherry-blossom-down-right.png" height ="30" />
 
 
-## you can also find me here:
-
-<a href="https://www.linkedin.com/in/violette-audibert-689523218/?originalSubdomain=fr"><img align="center" src="img/linkedin.png" height ="30" /></a>  <a href="https://www.facebook.com/people/Violette-Pumkins-Audibert/100011128934590?_rdr"><img align="center" src="img/facebook.png" height ="30" /></a> <img align="center" src="img/discord.png" height ="30" /></a> 
+<a href="https://www.linkedin.com/in/violette-audibert-689523218/?originalSubdomain=fr"><img align="center" src="img/linkedin.png" height ="30" /></a>  <a href="https://www.facebook.com/people/Violette-Pumkins-Audibert/100011128934590?_rdr"><img align="center" src="img/facebook.png" height ="30" /></a> <img align="center" src="img/discord.png" height ="30" />
 Violette Pumkins#8327
 
 
