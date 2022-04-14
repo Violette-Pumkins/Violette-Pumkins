@@ -2,9 +2,7 @@
 
 <a href="URL_REDIRECT"><img align="center" src="img/wallpaper_github_4_1200x600.png" width="100%" /></a>
 
-## Who am I?
-
-I'm a young creative developer who loves working on projects and always looking for something new to learn or to make! 
+<p align="center" > I love building projects. Developping useful and creative solutions is motivating, fun and challenging! <p/>
 
 ## What am I looking for at the moment?
 
@@ -23,7 +21,10 @@ I'm currently looking for an apprenticeship in web developement for my bachelor 
 
 ## you can also find me here:
 
-<a href="https://www.linkedin.com/in/violette-audibert-689523218/?originalSubdomain=fr"><img align="center" src="img/linkedin.png" height ="20" /></a> Violette Audibert
+<a href="https://www.linkedin.com/in/violette-audibert-689523218/?originalSubdomain=fr"><img align="center" src="img/linkedin.png" height ="30" /></a>  <a href="https://www.linkedin.com/in/violette-audibert-689523218/?originalSubdomain=fr"><img align="center" src="img/facebook.png" height ="30" /></a>
+
+<img align="center" src="img/discord.png" height ="30" /></a> Violet Pumkins #8327
+
 
 
 <!--
