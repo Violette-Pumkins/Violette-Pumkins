@@ -20,7 +20,7 @@ I'm currently looking for an apprenticeship in web developement for my bachelor 
 
 
 
-## <img align="center" src="img/cherry-blossom-top-left.png" height ="30" /> you can also find me here: <img align="center" src="img/cherry-blossom-down-right.png" height ="30" />
+## <img align="center" src="img/cherry-blossom-top-left.png" height ="50" /> you can also find me here: <img align="center" src="img/cherry-blossom-down-right.png" height ="50" />
 
 
 
