@@ -21,7 +21,7 @@ I'm currently looking for an apprenticeship in web developement for my bachelor 
 
 ## you can also find me here:
 
-<a href="https://www.linkedin.com/in/violette-audibert-689523218/?originalSubdomain=fr"><img align="center" src="img/linkedin.png" height ="30" /></a>  <a href="https://www.linkedin.com/in/violette-audibert-689523218/?originalSubdomain=fr"><img align="center" src="img/facebook.png" height ="30" /></a>
+<a href="https://www.linkedin.com/in/violette-audibert-689523218/?originalSubdomain=fr"><img align="center" src="img/linkedin.png" height ="30" /></a>  <a href="https://www.facebook.com/people/Violette-Pumkins-Audibert/100011128934590?_rdr"><img align="center" src="img/facebook.png" height ="30" /></a>
 
 <img align="center" src="img/discord.png" height ="30" /></a> Violet Pumkins #8327
 
