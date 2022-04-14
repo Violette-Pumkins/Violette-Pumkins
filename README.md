@@ -16,13 +16,13 @@ I'm currently looking for an apprenticeship in web developement for my bachelor 
 - <img align="center" src="img/mario.png" height ="30" /> Video games
 - <img align="center" src="img/love-song.png" height ="30" /> Music
 - <img align="center" src="img/light-saber.png" height ="30" /> Movies and theatre
-- <img align="center" src="img/discord.png" height ="30" /> Roleplay 
+- <img align="center" src="img/sword.png" height ="30" /> Roleplay 
 
-<img align="center" src="img/cherry-blossom-top-left.png" height ="30" />
 
-## you can also find me here:   
 
-<img align="center" src="img/cherry-blossom-down-right.png" height ="30" />
+## <img align="center" src="img/cherry-blossom-top-left.png" height ="30" /> you can also find me here: <img align="center" src="img/cherry-blossom-down-right.png" height ="30" />
+
+
 
 
 <a href="https://www.linkedin.com/in/violette-audibert-689523218/?originalSubdomain=fr"><img align="center" src="img/linkedin.png" height ="30" /></a>  <a href="https://www.facebook.com/people/Violette-Pumkins-Audibert/100011128934590?_rdr"><img align="center" src="img/facebook.png" height ="30" /></a> <img align="center" src="img/discord.png" height ="30" />
